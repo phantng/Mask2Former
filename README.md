@@ -1,4 +1,4 @@
-# Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation
+# Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation in TensorFlow 2
 
 [Bowen Cheng](https://bowenc0221.github.io/), [Ishan Misra](https://imisra.github.io/), [Alexander G. Schwing](https://alexander-schwing.de/), [Alexander Kirillov](https://alexander-kirillov.github.io/), [Rohit Girdhar](https://rohitgirdhar.github.io/)
 [[`arXiv`](https://arxiv.org/abs/2112.01527)] 
